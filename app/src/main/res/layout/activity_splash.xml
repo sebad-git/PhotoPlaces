@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_weight="1"
+    android:weightSum="1" android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    tools:context=".ui.activities.SplashActivity">
+
+    <LinearLayout android:layout_gravity="center"
+        android:layout_margin="20dp" android:padding="20dp"
+        android:gravity="center" android:layout_weight="1" android:id="@+id/logo_screen"
+        android:layout_width="match_parent" android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:background="@drawable/ic_logo"
+            android:backgroundTintMode="add"
+            android:tint="@color/colorFont"
+            android:layout_width="80dp"
+            android:layout_gravity="center"
+            android:foregroundGravity="center"
+            android:layout_height="80dp"/>
+
+        <TextView
+            android:paddingTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_gravity="start" android:gravity="center"
+            android:textSize="40sp" app:fontFamily="@font/mulish"
+            android:textColor="@color/colorFont"
+            android:text="@string/app_name"
+            android:shadowColor="@android:color/black"
+            android:shadowDx="2.5"
+            android:shadowDy="2.5"
+            android:shadowRadius="2"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <integer name="gps_distance">5000</integer>
+    <integer name="gps_latency">5</integer>
+    <integer name="map_zoom">16</integer>
+    <integer name="marker_zoom">18</integer>
+    <integer name="miniature_size">600</integer>
+    <integer name="marker_size">100</integer>
+</resources>

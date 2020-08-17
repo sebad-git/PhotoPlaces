@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Places</string>
+
+    <string name="exit">Press back again to exit.</string>
+
+    <string name="dialogo_yes">YES</string>
+    <string name="dialog_no">NO</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_save_location">SAVE LOCATION</string>
+
+    <string name="map_place_marker">PLACE MARKER</string>
+    <string name="map_place_marker_question">Do you wish to place a marker here?</string>
+
+    <string name="map_edit_marker">MODIFICAR MARCADOR</string>
+    <string name="map_edit_marker_question">Proceed editing the marker?</string>
+
+    <!-- Create Place-->
+    <string name="place_description">Place description</string>
+    <string name="place_name">Place Name</string>
+    <string name="file_date_pattern">yyyy.MM.dd_HH.mm.ss.SSSS</string>
+    <string name="file_name">PhotoPlaces_[%s].jpg</string>
+
+    <string name="current_location">Current Location</string>
+
+</resources>

@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/build.gradle" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="265c9ed0-aa94-4cc3-8461-6c218845176d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tienePermisos</find>
+      <find>iniciarAplicacion</find>
+      <find>SplashActivity</find>
+      <find>LatL</find>
+      <find>actualizarMapa</find>
+      <find>activity</find>
+      <find>MapaActivity</find>
+      <find>ub_rutaFoto</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/splashBackground.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/splash_background2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/GpsListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/PhotoPlacesHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/splash_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dialogo_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dialogo_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/font/turret_road.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/dialogo_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/map_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/boton_dialogo.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/textbox.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/boton.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/textbox_shape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_shape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/image_shape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/anim/slide_up.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/dialogos/Alerta.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/DatabaseException.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/anim/slide_right.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/util/EditorImagenes.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/util/GpsListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/UbicacionesHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/UbicacionDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/layout/activities/drawable-xhdpi/navigation_shape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_crear_ubicacion.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/anim/slide_down.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/anim/fade_in.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/modelo/Ubicacion.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/modelo/UbicacionMapa.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/dao/UbicacionDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/PhotoPlacesDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_mapa.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/integers.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/util/GpsUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/MapaActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/dialogos/Pregunta.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/util/BitmapUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/ort/edu/uy/photoplaces/DateFormatTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/CrearUbicacionActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PhotoPlaces" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="ort.edu.uy.photoplaces" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="NWB0218C27002808" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-16T23:19:07.248Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/layout/activities/drawable-xhdpi" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="ort.edu.uy.photoplaces.vista.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seba\Dropbox\Repositorios\Android\AndroidStudioProjects\PhotoPlaces\app\src\main\layout\activities\drawable-xhdpi" />
+      <recent name="C:\Users\seba\Dropbox\Repositorios\Android\AndroidStudioProjects\PhotoPlaces\app\src\main\res\anim" />
+      <recent name="C:\Users\seba\Dropbox\Repositorios\Android\AndroidStudioProjects\PhotoPlaces\app\src\main\res\drawable-hdpi" />
+      <recent name="C:\Users\seba\Dropbox\Repositorios\Android\AndroidStudioProjects\PhotoPlaces\app\src\main\res\drawable" />
+      <recent name="D:\Proyectos\Dropbox\Repositorios\Android\AndroidStudioProjects\PhotoPlaces\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="DateFormatTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ort.edu.uy.photoplaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ort.edu.uy.photoplaces" />
+      <option name="MAIN_CLASS_NAME" value="ort.edu.uy.photoplaces.DateFormatTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormatTest.dateFormatTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ort.edu.uy.photoplaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ort.edu.uy.photoplaces" />
+      <option name="MAIN_CLASS_NAME" value="ort.edu.uy.photoplaces.DateFormatTest" />
+      <option name="METHOD_NAME" value="dateFormatTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormatTest.fileTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ort.edu.uy.photoplaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ort.edu.uy.photoplaces" />
+      <option name="MAIN_CLASS_NAME" value="ort.edu.uy.photoplaces.DateFormatTest" />
+      <option name="METHOD_NAME" value="fileTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrearUbicacionActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="ort.edu.uy.photoplaces.vista.activities.CrearUbicacionActivity" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.DateFormatTest.fileTest" />
+        <item itemvalue="Android App.CrearUbicacionActivity" />
+        <item itemvalue="Android JUnit.DateFormatTest.dateFormatTest" />
+        <item itemvalue="Android JUnit.DateFormatTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\d070169\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="265c9ed0-aa94-4cc3-8461-6c218845176d" name="Default Changelist" comment="" />
+      <created>1570133548067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570133548067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DateFormatTest_dateFormatTest - 2019.10.16 at 20h 35m 33s.xml">
+      <configuration name="DateFormatTest.dateFormatTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_dateFormatTest - 2019.10.16 at 20h 38m 57s.xml">
+      <configuration name="DateFormatTest.dateFormatTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_dateFormatTest - 2019.10.16 at 20h 39m 08s.xml">
+      <configuration name="DateFormatTest.dateFormatTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 16m 09s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 17m 04s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 17m 25s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 18m 11s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 20m 14s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 20m 35s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="DateFormatTest_fileTest - 2019.10.16 at 21h 21m 41s.xml">
+      <configuration name="DateFormatTest.fileTest" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3160981" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.45980707" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.33547696" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32569557" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.57610476" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3289689" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.25683892" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32978722" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.31716418" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.44480172" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.26045015" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3279743" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.57610476" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3289689" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info active="true" anchor="right" id="Preview" order="5" visible="true" weight="0.25746268" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32978722" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/turret_road_font.ttf" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/pacifico.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/pacifico_regular.ttf" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/shadowsintolight.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/splash_background2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/splash_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/boton_dialogo.xml___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/boton_dialogo.xml___jb_old___" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialogo_layout.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dialogo_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/turret_road.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/map_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/dialogo_background.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/textbox_shape.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_shape.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/image_shape.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/poiret_one-regular.ttf" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/anim/fadeIn.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/fadeIn.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/DatabaseException.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#1571#1589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/slide_right.xml" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/UbicacionesHandler.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/layout/activities/drawable-xhdpi/navigation_shape.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/ort/edu/uy/photoplaces/persistencia/PhotoPlacesDatabase_Impl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/ort/edu/uy/photoplaces/persistencia/dao/UbicacionDao_Impl.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimen.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/slide_down.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/fade_in.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="35" column="64" lean-forward="true" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/modelo/UbicacionMapa.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/dao/UbicacionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="20" column="58" lean-forward="true" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/persistencia/PhotoPlacesDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_crear_ubicacion.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mapa (Copia en conflicto de pc154656 2019-10-16).xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_mapa.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/integers.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/MapaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="208" column="21" lean-forward="true" selection-start-line="208" selection-start-column="21" selection-end-line="208" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="94" column="53" lean-forward="true" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/dialogos/Alerta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/dialogos/Pregunta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/util/BitmapUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/util/GpsUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="17" column="58" lean-forward="true" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ort/edu/uy/photoplaces/vista/activities/CrearUbicacionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="139" column="45" lean-forward="true" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
+          <folding>
+            <element signature="e#3681#3718#0" expanded="true" />
+            <element signature="e#3799#3828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/ort/edu/uy/photoplaces/DateFormatTest.java" />
+  </component>
+</project>

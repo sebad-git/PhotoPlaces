@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#008577</color>
+        <color name="colorPrimaryDark">#2196F3</color>
+        <color name="colorAccent">#FFFFFF</color>
+        <color name="colorFont">#FFFFFF</color>
+        <color name="gradientStart">#9C27B0</color>
+        <color name="gradientEnd">#2196F3</color>
+        <color name="selected">#992871</color>
+        <color name="transparent">#00000000</color>
+        <color name="semi_transparent">#4FFFFFFF</color>
+        <color name="semi_transparent_float">#771F87</color>
+</resources>
