@@ -13,7 +13,7 @@
     <string name="map_place_marker">PLACE MARKER</string>
     <string name="map_place_marker_question">Do you wish to place a marker here?</string>
 
-    <string name="map_edit_marker">MODIFICAR MARCADOR</string>
+    <string name="map_edit_marker">EDIT MARKER</string>
     <string name="map_edit_marker_question">Proceed editing the marker?</string>
 
     <!-- Create Place-->
@@ -21,7 +21,9 @@
     <string name="place_name">Place Name</string>
     <string name="file_date_pattern">yyyy.MM.dd_HH.mm.ss.SSSS</string>
     <string name="file_name">PhotoPlaces_[%s].jpg</string>
-
     <string name="current_location">Current Location</string>
+
+    <string name="error_saving">Error Saving the Location,</string>
+    <string name="error_loading_markers">Error loading map markers.</string>
 
 </resources>

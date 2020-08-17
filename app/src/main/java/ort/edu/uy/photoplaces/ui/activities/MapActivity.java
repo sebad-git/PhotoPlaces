@@ -31,7 +31,6 @@ import java.util.List;
 import ort.edu.uy.photoplaces.R;
 import ort.edu.uy.photoplaces.model.PictureLocation;
 import ort.edu.uy.photoplaces.database.PhotoPlacesDatabase;
-import ort.edu.uy.photoplaces.ui.dialogs.Alert;
 import ort.edu.uy.photoplaces.util.BitmapUtil;
 import ort.edu.uy.photoplaces.ui.dialogs.Question;
 
@@ -103,7 +102,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                 if(currentGPSLocation!=null){
                     LatLng coords = new LatLng(currentGPSLocation.getLatitude(),currentGPSLocation.getLongitude());
                     try {
-                        BitmapDescriptor icon = BitmapUtil.crearIcono(this,R.drawable.ic_location);
+                        BitmapDescriptor icon = BitmapUtil.createIcon(this,R.drawable.ic_location);
                         currentMapMarker = map.addMarker(new MarkerOptions()
                                 .position(coords).title(getString(R.string.current_location)).icon(icon));
                     }catch (Exception e){ e.printStackTrace(); }
@@ -236,11 +235,11 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
 
                 @Override
                 protected Boolean doInBackground(Object... objs) {
-                    Log.i(getClass().getName(),"Actualizando mapa.");
+                    Log.i(getClass().getName(),"Updating map.");
                     try {
-                        Log.i(getClass().getName(),"Listando Ubicaciones");
+                        Log.i(getClass().getName(),"Listing Locations");
                         pictureLocations = PhotoPlacesDatabase.getDatabase(context).locationDao().list();
-                        Log.i(getClass().getName(),String.format(" Ubicaciones encontradas %s", pictureLocations.size()));
+                        Log.i(getClass().getName(),String.format(" Locations found %s", pictureLocations.size()));
                         for (PictureLocation ubicacion: pictureLocations) { publishProgress(new Object[]{ubicacion}); }
                         return true;
                     }
@@ -257,7 +256,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                         marcador.title(ubicacion.name);
                         marcador.snippet(ubicacion.description);
                         if(ubicacion.pictureExists()){
-                            try { marcador.icon(BitmapUtil.crearIcono(context,ubicacion.picturePath,
+                            try { marcador.icon(BitmapUtil.createIcon(context,ubicacion.picturePath,
                                     context.getResources().getInteger(R.integer.marker_size))); }
                             catch (Exception e) { Log.e(context.getClass().getName(),e.getMessage()); }
                         }
@@ -268,7 +267,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                         map.animateCamera(CameraUpdateFactory.zoomTo(context.getResources().getInteger(R.integer.marker_zoom)));
                     }
                     catch (Exception e) { Log.e(context.getClass().getName(),e.getMessage()); }
-                    Log.i(getClass().getName(),String.format(" Marcador [%s] agregado.",ubicacion.toString()));
+                    Log.i(getClass().getName(),String.format(" Marker [%s] added.",ubicacion.toString()));
                 }
 
                 @Override
@@ -276,7 +275,7 @@ public class MapActivity extends FragmentActivity implements OnMapReadyCallback,
                     progressBar.setVisibility(View.GONE);
                     displayCurrentLocation();
                     if(!cargaExitosa){
-                        Toast.makeText(context,"Ha ocurrido un problema cargando los marcadores",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(context,getString(R.string.error_loading_markers),Toast.LENGTH_SHORT).show();
                     }
                 }
             }.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);

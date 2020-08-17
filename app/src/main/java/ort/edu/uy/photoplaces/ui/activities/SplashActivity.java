@@ -18,11 +18,11 @@ import ort.edu.uy.photoplaces.ui.dialogs.Alert;
 
 public class SplashActivity extends AppCompatActivity {
 
-    //Codigos Permisos.
+    //Permissions Codes.
     public static final int REQUEST_APP_PERMISSIONS = 1;
     private View logo;
 
-    //Permisos.
+    //Permissions.
     private static final String[] permissions = new String[]{ Manifest.permission.WRITE_EXTERNAL_STORAGE,
             Manifest.permission.CAMERA, Manifest.permission.ACCESS_FINE_LOCATION,
             Manifest.permission.ACCESS_COARSE_LOCATION};

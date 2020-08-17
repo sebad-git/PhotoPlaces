@@ -1,9 +1,7 @@
 package ort.edu.uy.photoplaces.ui.activities;
 
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.location.LocationManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
@@ -157,7 +155,7 @@ public class CreateLocationActivity extends AppCompatActivity {
             else{ PhotoPlacesDatabase.getDatabase(this).locationDao().save(pictureLocation); }
         }catch (Exception e){
             e.printStackTrace();
-            Toast.makeText(this,"Error Guardando la ubicacion",Toast.LENGTH_SHORT).show();
+            Toast.makeText(this,getString(R.string.error_saving),Toast.LENGTH_SHORT).show();
         }
     }
 

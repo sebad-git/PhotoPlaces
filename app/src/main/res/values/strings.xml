@@ -20,7 +20,9 @@
     <string name="place_name">Nombre de Lugar</string>
     <string name="file_date_pattern">dd.MM.yyyy_HH.mm.ss.SSSS</string>
     <string name="file_name">PhotoPlaces_[%s].jpg</string>
-
     <string name="current_location">Ubicacion Actual</string>
+
+    <string name="error_saving">Error Guardando la ubicacion</string>
+    <string name="error_loading_markers">Ha ocurrido un error cargando los marcadores.</string>
 
 </resources>

@@ -21,19 +21,16 @@ import java.io.IOException;
 
 public class BitmapUtil {
 
-   // public static int TAMANIO_MINIATURA=600;
-  //  public static int TAMANIO_MAPA=120;
-
-    public static BitmapDescriptor crearIcono(Context contexto, String rutaImagen,int dimensiones) throws IOException {
+    public static BitmapDescriptor createIcon(Context context, String picturePath, int size) throws IOException {
         try {
-            Bitmap miniatura = crearMiniaturaCircular(contexto,rutaImagen,dimensiones);
-            BitmapDescriptor icono = BitmapDescriptorFactory.fromBitmap(miniatura);
-            return icono;
+            Bitmap miniature = createRoundMiniature(context,picturePath,size);
+            BitmapDescriptor icon = BitmapDescriptorFactory.fromBitmap(miniature);
+            return icon;
         }catch (Exception e){ throw new IOException(e); }
     }
 
-    public static BitmapDescriptor crearIcono(Context contexto, int idIcono) {
-        Drawable vectorDrawable = ContextCompat.getDrawable(contexto, idIcono);
+    public static BitmapDescriptor createIcon(Context context, int iconId) {
+        Drawable vectorDrawable = ContextCompat.getDrawable(context, iconId);
         Bitmap bitmap = Bitmap.createBitmap(vectorDrawable.getIntrinsicWidth(),
                 vectorDrawable.getIntrinsicHeight(), Bitmap.Config.ARGB_8888);
         Canvas canvas = new Canvas(bitmap);
@@ -42,21 +39,21 @@ public class BitmapUtil {
         return BitmapDescriptorFactory.fromBitmap(bitmap);
     }
 
-    public static Bitmap createMiniature(Context contexto, String rutaImagen, int dimensiones) throws IOException {
+    public static Bitmap createMiniature(Context context, String picturePath, int size) throws IOException {
         try {
-            File archivoImagen = new File(rutaImagen);
+            File imageFile = new File(picturePath);
             BitmapFactory.Options options = new BitmapFactory.Options();
             options.inPreferredConfig = Bitmap.Config.RGB_565;
             options.inJustDecodeBounds = false;
-            Bitmap imagenTemp = BitmapFactory.decodeStream(contexto.getContentResolver().openInputStream(Uri.fromFile(archivoImagen)),null,options);
-            imagenTemp = Bitmap.createScaledBitmap(imagenTemp,dimensiones,dimensiones,true);
+            Bitmap imagenTemp = BitmapFactory.decodeStream(context.getContentResolver().openInputStream(Uri.fromFile(imageFile)),null,options);
+            imagenTemp = Bitmap.createScaledBitmap(imagenTemp,size,size,true);
             return imagenTemp;
         }catch (Exception e){ throw new IOException(e); }
     }
 
-    public static Bitmap crearMiniaturaCircular(Context contexto, String rutaImagen,int dimensiones) throws IOException {
+    public static Bitmap createRoundMiniature(Context context, String picturePath, int size) throws IOException {
         try {
-            Bitmap miniatura = createMiniature(contexto,rutaImagen,dimensiones);
+            Bitmap miniatura = createMiniature(context,picturePath,size);
             Bitmap output = Bitmap.createBitmap(miniatura.getWidth(), miniatura.getHeight(), Bitmap.Config.ARGB_8888);
             Canvas canvas = new Canvas(output);
             final Paint paint = new Paint();
